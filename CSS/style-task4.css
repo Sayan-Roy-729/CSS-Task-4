@@ -46,13 +46,13 @@
 .hover-1:hover .submenu-1{
     display: inline-block;
     position: absolute;
-    margin-top: 33px;
-    margin-left: -799px;
+    left: 5%;
+    top: 46px;
     background-color: #027742;
-    height: auto;
-    width: 100%;
     border: 2px solid #027742;
-    border-radius: 20px;
+    border-radius: 15px;
+    height: auto;
+    width: 90vw;
 }
 
 .submenu-1 ul{
